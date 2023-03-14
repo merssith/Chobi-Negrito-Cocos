@@ -31,6 +31,13 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -51,8 +58,31 @@ The project is currently in the development phase. I'll show you more when some 
 
 ### Built With
 
-- Cocos Creator
+- Cocos Creator 3.6
 - Typescript
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## Getting Started
+
+This project is not yet deployed, but you can try it in your local. Follow the instructions below to run it.
+
+### Prerequisites
+
+You must have Cocos Creator installed on your computer. You can do it from here: https://www.cocos.com/en . This project is made with version 3.6
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Merssith/Chobi-Negrito-Cocos
+   ```
+2. Open Cocos Creator Dashboard
+3. Add a proyect
+4. Choose the folder called Cocos that is inside this repository
+5. Have fun!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
